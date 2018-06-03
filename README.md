@@ -1,3 +1,4 @@
- git remote add origin https://atollett:PW@github.com/atollett/testGit/blob/master/testWorldJava.git
+ git remote add origin https://github.com/atollett/testGit
+
 
 # testGit
